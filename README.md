@@ -1,3 +1,4 @@
+# This project is shared here to be re-read, learnt and reinforced by writing from scratch more than once.
 # Favorite food for every person
 It is a simple application that is a example for many to many relation room database with hilt, compose and test
 
